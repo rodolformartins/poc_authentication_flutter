@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>428014561284-0454j0t3pbfp8q5f5bun2o222aj6uf2e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.428014561284-0454j0t3pbfp8q5f5bun2o222aj6uf2e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>428014561284-5a8g5de93oi9rh0sr3kimsim7ekrd8ov.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2lP_CTgIqn0pcc1wrZjHwinxk_AlQWU8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>428014561284</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pocAutenticacaoFlutterFire</string>
+	<key>PROJECT_ID</key>
+	<string>frotadev-7f775</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frotadev-7f775.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:428014561284:ios:3ac1a0511d16c9a7a36d51</string>
+	<key>DATABASE_URL</key>
+	<string>https://frotadev-7f775.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "428014561284",
+    "firebase_url": "https://frotadev-7f775.firebaseio.com",
+    "project_id": "frotadev-7f775",
+    "storage_bucket": "frotadev-7f775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428014561284:android:8c11a98986c46179a36d51",
+        "android_client_info": {
+          "package_name": "com.example.poc_autenticacao_flutter_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaN7JjNKt0cyZLetqFAlUSYlHL5JO-Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428014561284-0454j0t3pbfp8q5f5bun2o222aj6uf2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pocAutenticacaoFlutterFire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428014561284:android:32ca7dcb38c96bd2a36d51",
+        "android_client_info": {
+          "package_name": "com.frotanet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428014561284-lngra371lt16vpibhld2vulrt6vk9ad1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frotanet.app",
+            "certificate_hash": "0d5912572bbbfed5ceceac51e1d924d886fc8d9e"
+          }
+        },
+        {
+          "client_id": "428014561284-mgefngker9e4vhkvjes8udtoen606sb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frotanet.app",
+            "certificate_hash": "b4201d5338dd7c783390a8ae6f6c4d62a73e7a05"
+          }
+        },
+        {
+          "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaN7JjNKt0cyZLetqFAlUSYlHL5JO-Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428014561284-0454j0t3pbfp8q5f5bun2o222aj6uf2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pocAutenticacaoFlutterFire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428014561284:android:2bdd40eae7a5addba36d51",
+        "android_client_info": {
+          "package_name": "com.frotante.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaN7JjNKt0cyZLetqFAlUSYlHL5JO-Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428014561284-ml2ed77mlf516t85uim4mmj04s15s9kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "428014561284-0454j0t3pbfp8q5f5bun2o222aj6uf2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pocAutenticacaoFlutterFire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
